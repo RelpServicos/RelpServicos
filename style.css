@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    flex-direction: column;
+}
+
+.information{
+    font-size: 40px;
+    text-align: center;
+}
+
+#timer{
+    font-size: 40px;
+    text-align: center;
+    font-weight: 900;
+}
